@@ -20,12 +20,6 @@ function App() {
 <div className="flex justify-center items-center">
       <div className="w-5/6 mt-4 mx-auto">
        <Search />
-       <div> <h1>hello everyone this is my first commit </h1> </div>
-       <div> <h1>hello everyone this is my first commit </h1> </div>
-       <div> <h1>hello everyone this is my first commit </h1> </div>
-       <div> <h1>hello everyone this is my first commit </h1> </div>
-       <div> <h1>hello everyone this is my first commit </h1> </div>
-       <div> <h1>hello everyone this is my first commit </h1> </div>
        {/* <DropDownButton /> */}
         {/* <CardSearch /> */}
         {/* <GridCard /> */}
